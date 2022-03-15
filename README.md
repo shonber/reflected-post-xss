@@ -1,5 +1,5 @@
 # reflected-post-xss
-HTML &amp;&amp; JavaScript reflected XSS attack
+HTML reflected XSS attack
 
 
 Explanation:
